@@ -4,4 +4,5 @@ xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
 xsi:schemaLocation='http://kenai.com/projects/nbappengine/downloads/download/schema/appengine-web.xsd appengine-web.xsd'>
     <application>OOAK</application>
     <version>1</version>
+    <threadsafe>true</threadsafe>
 </appengine-web-app>
